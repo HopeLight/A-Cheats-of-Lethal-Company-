@@ -7,7 +7,7 @@
 
 ## Funcations
 
-## 	 [sellItem](funcations\sellItem.md)
+## 	 [sellItem](funcations/sellItem.md)
 
 
 

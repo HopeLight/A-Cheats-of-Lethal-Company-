@@ -3,17 +3,11 @@
 ------
 
 
-
 > Version: **48**
 >
 > File: **DepositItemDesk.cs | HUDManager.cs** 
 >
 > Programming Langauge: **C#**
-
-
-
-[TOC]
-
 
 
 ## 方法
